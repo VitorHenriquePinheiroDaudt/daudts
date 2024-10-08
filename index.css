@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#a{
+    color: green
+}
+#b{
+    color:rgb(76, 194, 76)
+}
+#c{
+    color:rgb(76, 194, 76)
+}
+#d{
+    color:rgb(76, 194, 76)
+}
+#e{
+    color:rgb(76, 194, 76)
+}
+header {
+    color: green;
+    text-align: center;
+
+    background-color: rgb(76, 194, 76);
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+};
+#f{
+    color: green
+}
+main{
+    color:green
+}
+
+#criado{
+    color:green
+}
+#turma{
+    color:green
+}
+
+footer {
+    text-align: center;
+    color: green;
+
+
+    background-color: rgb(76, 194, 76);
+    margin-top: 25%;
+    padding: 10px;
+}
+#bitor{
+    text-align: center;
+    background-color:green;
+}
+#ultimo{
+    color:rgb(76, 194, 76)
+}

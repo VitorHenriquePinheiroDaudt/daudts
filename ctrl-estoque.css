@@ -1,0 +1,130 @@
+footer {
+    text-align: center;
+    color: green;
+
+
+    background-color: rgb(76, 194, 76);
+    margin-top: 25%;
+    padding: 10px;
+}
+#tittle{
+    color:green
+}
+#b{
+    color:rgb(76, 194, 76); 
+    text-align: center;
+}
+#c{
+    color:rgb(76, 194, 76)
+}
+#d{
+    color:rgb(76, 194, 76)
+}
+#e{
+    color:rgb(76, 194, 76)
+}
+#cntrl{
+    color:green
+}
+#foto{
+    color:green
+}
+#descricao{
+    color:green
+}
+#preco{
+    color:green
+}
+#quantidadedisponivel{
+    color:green
+}
+#um{
+color:green
+}
+#dois{
+  color: green 
+}
+#tres{
+  color: green 
+}
+#quatro{
+   color: green
+}
+#cinco{
+    color:green
+}
+#seis{
+   color:green
+}
+#sete{
+    color:gold
+}
+#vitor{
+    color:red
+}
+#henrique{
+    color:red
+}
+#pinheiro{
+    color:red
+}
+#daudt{
+    color:red
+}
+#dauf{
+    color:red
+}
+#dauder{
+    color:red
+}
+#daufer{
+    color:red
+}
+#iphonedois{
+    color:rgb(76, 194, 76)
+}
+#iphone{
+    color:rgb(76, 194, 76)
+}
+#apple{
+    color:rgb(76, 194, 76)
+}
+#mac{
+    color:rgb(76, 194, 76)
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#ipad{
+    color:rgb(76, 194, 76)
+}
+#mag{
+    color:rgb(76, 194, 76)
+}
+#nokia{
+    color:gold
+}
+#criado{
+    color:green
+}
+#turma{
+    color:green
+}
+header {
+    color: green;
+    text-align: center;
+
+    background-color: rgb(76, 194, 76);
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}   
+main{
+    text-align: center;
+    background-color    :green
+}
+#ultimo{
+    color:rgb(76, 194, 76)
+}

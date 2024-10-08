@@ -1,0 +1,61 @@
+footer {
+    text-align: center;
+    color: green;
+
+
+    background-color: rgb(76, 194, 76);
+    margin-top: 25%;
+    padding: 10px;
+}
+#tech{
+    color:green;
+}
+header {
+    color: blue;
+    text-align: center;
+
+    background-color: rgb(76, 194, 76);
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+main{
+    height: 20px;
+    text-align: center;
+    background-color:green
+    
+}
+#b{
+    color:rgb(76, 194, 76); 
+}
+#c{
+    color:rgb(76, 194, 76);
+}
+#d{
+    color:rgb(76, 194, 76);
+}
+#e{
+    color:rgb(76, 194, 76);
+}
+#ultimo{
+    color:rgb(76, 194, 76)
+}
+#criado{
+    color:green
+}
+#turma{
+    color:green
+}
+#dois{
+    text-align: center;
+    background-color:rgb(76, 194, 76) ;
+    height: 25px;
+    color:green 
+}
+#body{
+    background-color: rgb(76, 194, 76);
+}
+#select{
+    color:green
+}

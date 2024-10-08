@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+#add{
+    color:green;
+}
+#b{
+    color:rgb(76, 194, 76); 
+}
+#c{
+    color:rgb(76, 194, 76);
+}
+#d{
+    color:rgb(76, 194, 76);
+}
+#e{
+    color:rgb(76, 194, 76);
+}
+#tech{
+    color:green;
+}
+#descricao{
+    color:blue
+}
+#link-foto{
+    color:cyan
+}
+#preço{
+    color:blue
+}
+#quantidade{
+    color:cyan
+}
+#criado{
+    color:green
+}
+#turma{
+    color:green
+}
+header {
+    color: blue;
+    text-align: center;
+
+    background-color: rgb(76, 194, 76);
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+main{
+    text-align: center;
+    background-color:green
+}
+#ultimo{
+    color:rgb(76, 194, 76)
+}
+footer {
+    text-align: center;
+    color: green;
+
+
+    background-color: rgb(76, 194, 76);
+    margin-top: 25%;
+    padding: 10px;
+}
